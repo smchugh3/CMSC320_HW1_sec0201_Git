@@ -5,3 +5,11 @@ Answer: Easy version control and collaboration for many people to be able to be 
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science can be applied to the field of finance in order to analyze data from stock trends. 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging will bring the branches together, but rebasing will add the changes from the branch being merged after the current branch. 
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning data science in order to strengthen my skills as a programmer, as well as expanding my knowledge in other areas of computer science.
